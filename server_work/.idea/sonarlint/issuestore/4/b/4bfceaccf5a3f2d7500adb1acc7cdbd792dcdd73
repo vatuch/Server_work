@@ -1,0 +1,10 @@
+
+j
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ø­áŽ÷1J$81e026de-6eeb-4035-b7e6-587b1f7343f0
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²¾‘ã8áò¦Ž÷1J$baaf3a72-6403-4141-b06e-1b88851d8c38
+£
+java:S1450"[Remove the "serverSocket" field and declare it as a local variable in the relevant methods.(“—Ó¿ýÿÿÿÿ8äò¦Ž÷1J$fc8f93aa-c302-4935-89e7-c4cf32222471
+l	java:S106"+Replace this use of System.out by a logger.(Ï£Û8ìò¦Ž÷1J$bf59a1f0-a3a6-442f-a286-4f00ae1d1dcc
+m	java:S106 "+Replace this use of System.out by a logger.(„³¾Ò8ìò¦Ž÷1J$55c0b680-34a7-46a1-aba0-5dceca718ed8
+~	java:S125#"<This block of commented-out lines of code should be removed.(—»ñ¬8–¸äŽ÷1J$115fc61f-20a5-4b4b-88b7-3eec01cd0be8
